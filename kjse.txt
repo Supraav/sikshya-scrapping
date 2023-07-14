@@ -1,0 +1,9 @@
+https://www.shiksha.com/university/saveetha-institute-of-medical-and-technical-sciences-poonamallee-chennai-34281/courses/fnb-fellow-of-national-board-bc
+Error scraping URL: https://www.shiksha.com/university/saveetha-institute-of-medical-and-technical-sciences-poonamallee-chennai-34281 - Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("#ACPWrapper") to be visible
+
+
+
+getting into college: https://www.shiksha.com/college/school-of-science-and-humanities-srm-ist-chennai-kattankulathur-51989
+Error scraping URL: https://www.shiksha.com/college/school-of-science-and-humanities-srm-ist-chennai-kattankulathur-51989 - 'NoneType' object has no attribute 'inner_html'
